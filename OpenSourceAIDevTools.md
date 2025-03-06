@@ -12,6 +12,21 @@
 - [Kangas](https://github.com/comet-ml/kangas)
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
 
+## Web Crawling
+- [Beautiful Soup](https://colab.research.google.com/github/nestauk/im-tutorials/blob/3-ysi-tutorial/notebooks/Web-Scraping/Web%20Scraping%20Tutorial.ipynb)
+- [Scrapy]](https://github.com/scrapy/scrapy)
+- [Mechanical Soup](https://github.com/MechanicalSoup/MechanicalSoup)
+- [Crawl4Ai](https://github.com/unclecode/crawl4ai)
+- [Apache Nutch Java](https://github.com/apache/nutch)
+- [crawler4J Java](https://github.com/yasserg/crawler4j)
+- [Katana Go](https://github.com/projectdiscovery/katana)
+- [Puppeteer JS](https://github.com/puppeteer/puppeteer)
+- [Selenium](https://github.com/SeleniumHQ/selenium)
+- [Mechanize](https://github.com/python-mechanize/mechanize)
+- [Jsoup Java](https://github.com/jhy/jsoup)
+- [Cheerio TS](https://github.com/cheeriojs/cheerio)
+- 
+
 ## Large Language Model Frameworks
 ### Popular LLM
 
@@ -104,6 +119,7 @@
 - [Gradio](https://cs231n.github.io/python-numpy-tutorial/)
 
 ### Integration API and Tools
+- [Jax Toolbox](https://github.com/NVIDIA/JAX-Toolbox)
 - [Gemini API](https://colab.research.google.com/notebooks/snippets/gemini.ipynb)
 - [BERT](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)
 - [Google NotebookLM](https://notebooklm.google.com/)
@@ -118,3 +134,6 @@
 - [OpenML Lab](https://www.openml.org/)
 - [PyWhy](https://www.pywhy.org/)
 - [PyCaret](https://pycaret.org/)
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
+- [NVidia Cuda-X](https://developer.nvidia.com/gpu-accelerated-libraries)
+
