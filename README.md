@@ -1,4 +1,4 @@
-![OpenSource AI Tools and Frameworks]( "OpenSource AI Tools and Frameworks").
+![OpenSource AI Tools and Frameworks](AIDevTools.svg "OpenSource AI Tools and Frameworks").
 # AI Developer Tools and Frameworks
 
 ## Data Processing
