@@ -14,7 +14,7 @@
 
 ## Web Crawling
 - [Beautiful Soup](https://colab.research.google.com/github/nestauk/im-tutorials/blob/3-ysi-tutorial/notebooks/Web-Scraping/Web%20Scraping%20Tutorial.ipynb)
-- [Scrapy]](https://github.com/scrapy/scrapy)
+- [Scrapy](https://github.com/scrapy/scrapy)
 - [Mechanical Soup](https://github.com/MechanicalSoup/MechanicalSoup)
 - [Crawl4Ai](https://github.com/unclecode/crawl4ai)
 - [Apache Nutch Java](https://github.com/apache/nutch)
