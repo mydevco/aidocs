@@ -1,4 +1,4 @@
-![OpenSource AI Tools and Frameworks](https://drive.google.com/file/d/1uJUA2B87Efp-bZ4-5r8WbgQ0sZtQ_dFq/view?usp=drive_link "OpenSource AI Tools and Frameworks").
+![OpenSource AI Tools and Frameworks]( "OpenSource AI Tools and Frameworks").
 # AI Developer Tools and Frameworks
 
 ## Data Processing
